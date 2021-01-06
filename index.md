@@ -7,11 +7,9 @@
 
 ## Styling Text Section
 
-Told rhymes with **bold**
-
-Slanted text is said to be *italicized*
-
-I do not make ~~misteaks~~ mistakes
+1. Told rhymes with **bold**
+2. Slanted text is said to be *italicized*
+3. ~~Misteaks~~ Mistakes were not made
 
 ## Tasks List Section
 # TO-DO: 
