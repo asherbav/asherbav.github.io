@@ -12,4 +12,13 @@ I do not make ~~misteaks~~ mistakes
 - [x] Add to task list
 - [ ] Finish task list
 
+## Link Section
+
 This site contains a link to itself via the [following](https://asherbav.github.io/).
+
+## Emoji Section
+
+:joy:
+
+## Picture Section
+
