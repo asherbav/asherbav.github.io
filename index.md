@@ -1,3 +1,10 @@
+## Upcoming Sections
+- Styling Section
+- Tasks List Section
+- Link Section
+- Emoji Section
+- Picture Section
+
 ## Styling Text Section
 
 Told rhymes with **bold**
