@@ -22,7 +22,6 @@
 This site contains a link to itself via the [following](https://asherbav.github.io/).
 
 ## Emoji Section
-
 :joy:
 
 ## Picture Section
