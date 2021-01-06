@@ -1,8 +1,8 @@
 # Upcoming Sections
-- Styling Section
-- Tasks List Section
-- Link Section
-- Picture Section
+- [Styling Section]
+- [Tasks List Section]
+- [Link Section]
+- [Picture Section]
 
 ## Styling Text Section
 
