@@ -1,8 +1,10 @@
-# Upcoming Sections
-- [Styling Section]
-- [Tasks List Section]
-- [Link Section]
-- [Picture Section]
+# Section Links
+- [Styling Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#styling-text-section)
+- [Quotes Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#quotes-section)
+- [List Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#list-section)
+- [Tasks List Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#tasks-list-section)
+- [Link Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#link-section)
+- [Picture Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#picture-section)
 
 ## Styling Text Section
 
@@ -21,6 +23,10 @@ git status
 git add
 git commit
 ```
+## List Section
+1. List of lists
+   - First list
+     - Item in first list
 
 ## Tasks List Section
 ##### TO-DO: 
