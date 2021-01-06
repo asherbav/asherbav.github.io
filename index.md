@@ -40,4 +40,4 @@ This site contains a link to itself via the [following](https://asherbav.github.
 
 ## Picture Section
 
-![image](https://user-images.githubusercontent.com/60761222/103729640-c2b07e00-4f95-11eb-9a9b-5887632e14f6.png)
+![image](https://user-images.githubusercontent.com/60761222/103747276-3f078900-4fb7-11eb-8169-baab9000a39f.png)
