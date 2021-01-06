@@ -2,7 +2,6 @@
 - Styling Section
 - Tasks List Section
 - Link Section
-- Emoji Section
 - Picture Section
 
 ## Styling Text Section
@@ -21,8 +20,6 @@
 
 This site contains a link to itself via the [following](https://asherbav.github.io/).
 
-## Emoji Section
-:joy:
 
 ## Picture Section
 
