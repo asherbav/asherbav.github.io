@@ -1,10 +1,13 @@
-##Styling Sext Section
-Told rhymes with **bold**.
-Slanted text is said to be *italicized*
-I do not make ~~misteaks~~ mistakes.
+## Styling Text Section
 
-##Tasks List Section
-#TO-DO: 
+Told rhymes with **bold**
+
+Slanted text is said to be *italicized*
+
+I do not make ~~misteaks~~ mistakes
+
+## Tasks List Section
+# TO-DO: 
 - [x] Create task list
 - [x] Add to task list
 - [ ] Finish task list
