@@ -1,3 +1,10 @@
+
+## Picture of Me
+<img src="https://user-images.githubusercontent.com/60761222/105061114-fbd4fd80-5a2d-11eb-93e5-e00edc5d5e58.jpg" width=200px>
+
+# About
+Hi my name is Asher. I'm a Computer Science major at UCSD. 
+
 # Section Links
 - [Styling Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#styling-text-section)
 - [Quotes Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#quotes-section)
@@ -24,12 +31,11 @@ git add
 git commit
 ```
 ## List Section
-1. List of lists
+1. List of *lists*
    - First list
      - Item in first list
 
-## Tasks List Section
-##### TO-DO: 
+2. **TO-DO List**: 
 - [x] Create task list
 - [x] Add to task list
 - [ ] Finish task list
@@ -38,6 +44,3 @@ git commit
 
 This site contains a link to itself via the [following](https://asherbav.github.io/).
 
-## Picture Section
-
-![image](https://user-images.githubusercontent.com/60761222/103747276-3f078900-4fb7-11eb-8169-baab9000a39f.png)
