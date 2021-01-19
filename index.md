@@ -31,11 +31,11 @@ git add
 git commit
 ```
 ## List Section
-1. List of *lists*
+1. List of *lists* 
    - First list
      - Item in first list
 
-2. **TO-DO List**: 
+2. TO-DO List: 
 - [x] Create task list
 - [x] Add to task list
 - [ ] Finish task list
