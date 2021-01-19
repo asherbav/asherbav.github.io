@@ -11,7 +11,7 @@ Hi my name is Asher. I'm a Computer Science major at UCSD.
 - [List Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#list-section)
 - [Tasks List Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#tasks-list-section)
 - [Link Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#link-section)
-- [Picture Section](https://github.com/asherbav/asherbav.github.io/blob/main/index.md#picture-section)
+
 
 ## Styling Text Section
 
