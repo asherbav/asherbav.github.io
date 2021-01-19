@@ -20,9 +20,9 @@ Hi my name is Asher. I'm a Computer Science major at UCSD.
 3. ~~Misteaks~~ Mistakes were not made
 
 ## Quotes Section
-In the words of Forrest Gump:
+In the words of Sir Isaac Newton:
 
-> My mom always said life was like a box of chocolates. You never know what you're gonna get
+> If I have seen further than others, it is by standing upon the shoulders of giants.
 
 Some basic Git commands are:
 ```
