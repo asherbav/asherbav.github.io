@@ -1,6 +1,4 @@
 
-## Picture of Me
-<img src="https://user-images.githubusercontent.com/60761222/105061114-fbd4fd80-5a2d-11eb-93e5-e00edc5d5e58.jpg" width=200px>
 
 # About
 Hi my name is Asher. I'm a Computer Science major at UCSD. 
